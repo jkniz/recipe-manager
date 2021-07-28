@@ -1,0 +1,14 @@
+Package: shrec
+Title: Shiny app for managing recipes
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jessica",
+           family = "Knizia",
+           role = c("aut", "cre")
+           )
+Description: Shrec is a shiny app to gather and organize recipes.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
